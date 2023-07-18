@@ -14,3 +14,11 @@ $ git clone https://github.com/go-delve/delve
 $ cd delve
 $ go install github.com/go-delve/delve/cmd/dlv
 ```
+
+For rust https://www.youtube.com/watch?v=mh_EJhH49Ms&ab_channel=DreamsofCode
+Run some command first
+$ rustup component add rust-analyzer
+$ apt install lldb
+Inside neovim 
+:Lazy install
+:MasonInstallAll
