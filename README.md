@@ -40,4 +40,5 @@ Inside neovim
 :MasonInstallAll
 
 ## Reference
- - From the video https://www.youtube.com/watch?v=i04sSQjd-qo&t=193s&ab_channel=DreamsofCode
+ - From the video https://www.youtube.com/watch?v=i04sSQjd-qo&t=193s&ab_channel=DreamsofCode
+ - Python config https://github.com/dreamsofcode-io/neovim-python
